@@ -6,5 +6,5 @@ from setuptools import setup
 setup(
     name='pre_commit_placeholder_package',
     version='0.0.0',
-    install_requires=['ziglang==0.10.1.post1'],
+    install_requires=['ziglang==0.11.0.dev3747'],
 )
